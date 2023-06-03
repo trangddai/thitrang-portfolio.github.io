@@ -86,3 +86,9 @@ article img{
     border: 2px solid snow;
     border-radius: 50%;
 }
+footer{
+    text-align: center;
+    font-family: gentium-basic;
+    background-color: #f9ebea;
+    height: 1.25em;
+}

@@ -164,4 +164,9 @@ nav a:hover{
   .right h2{
     padding-left: 1em;
   }
- 
+  footer{
+    text-align: center;
+    font-family: gentium-basic;
+    background-color: #f9ebea;
+    height: 1.25em;
+}

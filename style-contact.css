@@ -121,3 +121,9 @@ clear: both;
 span+span{
     margin-left: 1.2em;
   }
+  footer{
+    text-align: center;
+    font-family: gentium-basic;
+    background-color: #f9ebea;
+    height: 1.25em;
+}
